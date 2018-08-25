@@ -1,0 +1,2 @@
+man hostname for more info
+hostname -b <new_name>
